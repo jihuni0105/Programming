@@ -2,9 +2,9 @@
 
 int main(void)
 {
-	printf("FirstApp ÇÁ·Î±×·¥\n");
-	printf("ÀÛ¼ºÀÚ : ÃµÁ¤¾Æ\n");
-	printf("¹öÀü : 1.0\n");
-
+	printf("FirstApp í”„ë¡œê·¸ë¨\n");
+	printf("ì‘ì„±ì : ì²œì •ì•„\n");
+	printf("ë²„ì „ : 1.0\n");
+	printf("Hello Git");
 	return 0;
 }
